@@ -1,0 +1,27 @@
+{
+    "name": "aimes/module-quality-patches-ui-hyva-dashboard-widget",
+    "type": "magento2-module",
+    "description": "Hyvä admin dashboard widget for displaying status of Magento Quality Patches",
+    "license": [
+        "GPL-3.0-or-later"
+    ],
+    "authors": [
+        {
+            "name": "Rob Aimes",
+            "email": "rob@aimes.dev",
+            "homepage": "https://aimes.dev"
+        }
+    ],
+    "require": {
+        "aimes/module-quality-patches-ui": "^1.0",
+        "hyva-themes/commerce-module-admin-dashboard": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "Aimes\\QualityPatchesUiHyvaDashboardWidget\\": ""
+        },
+        "files": [
+            "registration.php"
+        ]
+    }
+}
