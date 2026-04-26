@@ -1,12 +1,7 @@
-# Aimes_QualityPatchesUi
+# Aimes_QualityPatchesUiHyvaDashboardWidget
 !["Supported Magento Version"][magento-badge] !["Supported Adobe Commerce Version"][adobe-commerce-badge] !["Hyvä Commerce Supported"][hyva-commerce-badge] !["Latest Release"][release-badge]
 
-Compatible with _Magento Open Source_ and _Adobe Commerce_ `2.4.x`
-
-Compatible with Hyvä Commerce
-
-## Features
-- Integration with [Hyvä Admin Dashboard][hyva-dashboard] for the [QualityPatchesUi module][qualitypatchesui] 
+Integration module for the [QualityPatchesUi Magento 2 Module][qualitypatchesui] and [Hyvä Admin Dashboard][hyva-dashboard]
 
 ## Requirements
 * Magento Open Source or Adobe Commerce version `2.4.x`
@@ -24,6 +19,7 @@ Please install this module via Composer. This module is hosted on [Packagist][pa
 - Fill in the form and save the widget
 
 ## Preview
+![Preview](https://github.com/user-attachments/assets/d51116ff-b77b-4d66-a03f-dc93171e2474)
 
 
 ## Licence
