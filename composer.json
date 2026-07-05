@@ -13,8 +13,11 @@
         }
     ],
     "require": {
-        "aimes/module-quality-patches-ui": "^1.0",
+        "aimes/module-quality-patches-ui": "^1.0 < 1.5",
         "hyva-themes/commerce-module-admin-dashboard": "^1.0"
+    },
+    "conflict": {
+        "aimes/module-quality-patches-ui": ">= 1.5"
     },
     "autoload": {
         "psr-4": {

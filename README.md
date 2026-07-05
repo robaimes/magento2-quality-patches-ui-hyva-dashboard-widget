@@ -1,6 +1,11 @@
 # Aimes_QualityPatchesUiHyvaDashboardWidget
 !["Supported Magento Version"][magento-badge] !["Supported Adobe Commerce Version"][adobe-commerce-badge] !["Hyvä Commerce Supported"][hyva-commerce-badge] !["Latest Release"][release-badge]
 
+# Deprecation Notice
+**This module is now deprecated. The main module, available [here][qualitypatchesui], now houses this integration for Hyva Commerce 1.3.0 and upwards.** 
+
+--------------
+
 Integration module for the [QualityPatchesUi Magento 2 Module][qualitypatchesui] and [Hyvä Admin Dashboard][hyva-dashboard]
 
 ## Requirements
